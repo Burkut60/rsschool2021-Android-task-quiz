@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="questions">
+        <item id="1">"Какой из представленных университетов не входит в «Лигу плюща»?"</item>
+        <item>"Что из перечисленного не овощ и не фрукт"</item>
+        <item>"Пятая планета от Солнца?"</item>
+        <item>"Чем занимаются домашние кошки большую часть жизни?"</item>
+        <item>"Марс и Венера это боги какого народа?"</item>
+    </string-array>
+
+    <string-array name="answer_options_first">
+        <item>"Йельский университет"</item>
+        <item>"Гарвардский университет"</item>
+        <item>"Дартмутский университет"</item>
+        <item>"Питтсбургский университет"</item>
+        <item>"Нет правильного ответа"</item>
+    </string-array>
+
+    <string-array name="answer_options_second">
+        <item>"Арбуз"</item>
+        <item>"Помидор"</item>
+        <item>"Яблоко"</item>
+        <item>"Ананас"</item>
+        <item>"Нет правильного ответа"</item>
+    </string-array>
+
+    <string-array name="answer_options_third">
+        <item>"Миркурий"</item>
+        <item>"Замля"</item>
+        <item>"Юпитер"</item>
+        <item>"Марс"</item>
+        <item>"Нет правильного ответа"</item>
+    </string-array>
+
+    <string-array name="answer_options_fourth">
+        <item>"Спят"</item>
+        <item>"Играют"</item>
+        <item>"Мурлячат"</item>
+        <item>"Едят"</item>
+        <item>"Нет правильного ответа"</item>
+    </string-array>
+
+    <string-array name="answer_options_fives">
+        <item>"Римские боги"</item>
+        <item>"Греческие боги"</item>
+        <item>"Египетские боги"</item>
+        <item>"Скандинавские боги"</item>
+        <item>"Нет правильного ответа"</item>
+    </string-array>
+
+
+    <string-array name="answers">
+        <item>"Питтсбургский университет"</item>
+        <item>"Арбуз"</item>
+        <item>"Юпитер"</item>
+        <item>"Спят"</item>
+        <item>"Римские боги"</item>
+    </string-array>
+</resources>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="deep_orange_100">#ffccbc</color>
-    <color name="deep_orange_100_light">#ffffee</color>
-    <color name="deep_orange_100_dark">#cb9b8c</color>
-    <color name="yellow_100">#fff9c4</color>
-    <color name="yellow_100_light">#fffff7</color>
-    <color name="yellow_100_dark">#cbc693</color>
-    <color name="light_green_100">#dcedc8</color>
-    <color name="light_green_100_light">#fffffb</color>
+    <color name="white">#DFD5D5</color>
+    <color name="deep_orange_100">#E63B0E</color>
+    <color name="deep_orange_100_light">#FF6F00</color>
+    <color name="deep_orange_100_dark">#F39441</color>
+    <color name="yellow_100">#E8D318</color>
+    <color name="yellow_100_light">#BDBD2C</color>
+    <color name="yellow_100_dark">#887F1A</color>
+    <color name="light_green_100">#DEE4D6</color>
+    <color name="light_green_100_light">#9F9F9A</color>
     <color name="light_green_100_dark">#aabb97</color>
-    <color name="cyan_100">#b2ebf2</color>
-    <color name="cyan_100_light">#e5ffff</color>
-    <color name="cyan_100_dark">#81b9bf</color>
-    <color name="deep_purple_100">#d1c4e9</color>
-    <color name="deep_purple_100_light">#fff7ff</color>
-    <color name="deep_purple_100_dark">#a094b7</color>
+    <color name="cyan_100">#5D9AA1</color>
+    <color name="cyan_100_light">#294545</color>
+    <color name="cyan_100_dark">#49D9E8</color>
+    <color name="deep_purple_100">#7C45E3</color>
+    <color name="deep_purple_100_light">#3A383A</color>
+    <color name="deep_purple_100_dark">#170933</color>
 </resources>
