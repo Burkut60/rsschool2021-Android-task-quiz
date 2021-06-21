@@ -69,7 +69,7 @@
                 app:layout_constraintEnd_toEndOf="@id/margin_end_guideline"
                 app:layout_constraintStart_toStartOf="@id/margin_start_guideline"
                 app:layout_constraintTop_toBottomOf="@id/result"
-                android:contentDescription="@string/share_button"/>
+                android:contentDescription="@string/share_btn"/>
 
             <ImageView
                 android:id="@+id/back_btn"
@@ -81,7 +81,7 @@
                 app:layout_constraintEnd_toEndOf="@id/margin_end_guideline"
                 app:layout_constraintStart_toStartOf="@id/margin_start_guideline"
                 app:layout_constraintTop_toBottomOf="@id/share_btn"
-                android:contentDescription="@string/back_button"/>
+                android:contentDescription="@string/back_btn"/>
 
             <ImageView
                 android:id="@+id/close_btn"
@@ -93,7 +93,7 @@
                 app:layout_constraintEnd_toEndOf="@id/margin_end_guideline"
                 app:layout_constraintStart_toStartOf="@id/margin_start_guideline"
                 app:layout_constraintTop_toBottomOf="@id/back_btn"
-                android:contentDescription="@string/close_button"/>
+                android:contentDescription="@string/close_btn"/>
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
 

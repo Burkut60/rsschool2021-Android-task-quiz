@@ -6,3 +6,4 @@ data class Question(
     val options: ArrayList<String>,
     val correctAnswer: Int
 )
+

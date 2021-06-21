@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Quiz</string>
-    <string name="share_button" />
-    <string name="back_button" />
-    <string name="close_button" />
+    <string name="result_btn">Result</string>
+    <string name="share_btn">share button</string>
+    <string name="back_btn">back button</string>
+    <string name="close_btn">close button</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 </resources>
